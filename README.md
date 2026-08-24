@@ -1,6 +1,6 @@
 # Power Electronics Study
 
-Documented progress through a self-directed 24-month roadmap in Power Electronics, built alongside a Year 3 Electrical and Computer Engineering degree at UNILAG (graduating 2027).
+Documented progress through a self-directed 24-month roadmap in Power Electronics, built alongside a Year 4 Electrical and Computer Engineering degree at UNILAG (graduating 2027).
 
 ## Background
 
