@@ -19,16 +19,21 @@ Deeper theoretical and research-oriented work building on the domain application
 
 ## Repo Structure
 
-- `01-foundations/` — circuits, converter design, PCB design fundamentals
-- `02-solar-pv/` — MPPT algorithms, boost converter design for PV, grid-tied inverter design, LTspice simulations
-- `03-advanced-solar/` — three-phase SVPWM systems, battery storage integration, MATLAB/Simulink models
-- `04-flyback-build/` — real 30W offline flyback converter (UC3842), schematic through KiCad PCB layout and bring-up
-- `resources/` — roadmap notes and reference material
+* `01-foundations/` — circuits, converter design, PCB design fundamentals
+* `02-solar-pv/` — MPPT algorithms, boost converter design for PV, grid-tied inverter design, LTspice simulations
+* `03-advanced-solar/` — three-phase SVPWM systems, battery storage integration, MATLAB/Simulink models
+* `04-flyback-build/` — real 30W offline flyback converter (UC3842), schematic through KiCad PCB layout and bring-up
+* `resources/` — roadmap notes and reference material
 
 ## Tools
 
 LTspice, MATLAB/Simulink, PVWatts, KiCad (two-layer PCB design)
 
+## Certifications
+
+MATLAB Onramp (MathWorks) — completed Aug 2026, see `resources/certifications/`
+
 ## Status
 
 Currently on Month 9 (EV/Motor Drives), following completion of PCB design fundamentals and a two-month deep dive into solar PV systems (PV physics through MW-scale utility design, economics, and grid integration).
+
