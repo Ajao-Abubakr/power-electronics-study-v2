@@ -33,6 +33,7 @@ LTspice, MATLAB/Simulink, PVWatts, KiCad (two-layer PCB design)
 
 MATLAB Onramp (MathWorks) — completed Aug 2026, see `resources/certifications/`
 Simulink Onramp (MathWorks) — completed Aug 2026, see `resources/certifications/`
+Power Electronics Simulation Onramp (MathWorks) — completed Aug 2026, see `resources/certifications/`
 
 ## Status
 
