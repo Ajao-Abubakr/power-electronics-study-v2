@@ -1,0 +1,16 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Lib\power-electronics-study-v2\02-solar-pv\ltspice-sims\pv_boost_mppt_attempt.net
+Start Time: Mon Aug 31 12:23:15 2026
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 20.578 seconds.
+
+Files loaded:
+C:\Users\Lib\power-electronics-study-v2\02-solar-pv\ltspice-sims\pv_boost_mppt_attempt.net
+C:\Users\Lib\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Lib\AppData\Local\LTspice\lib\cmp\standard.mos
+
